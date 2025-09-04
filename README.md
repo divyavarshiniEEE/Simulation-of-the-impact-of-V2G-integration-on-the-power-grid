@@ -3,7 +3,9 @@
 To Simulate the impact of V2G integration on the power grid
 
 ## APPARATUS REQUIRED
-•	MATLAB
+
+MATLAB
+
 ## MATLAB CODING
 
 ## OUTPUT
